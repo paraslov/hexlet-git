@@ -1,1 +1,1 @@
-Hello, Brothers! My Hexlet studying is here :)
+Hello, Hexlet! How are you?
